@@ -1,0 +1,33 @@
+body {
+	background: rgb(182, 208, 249);
+	font-family: 'Raleway', sans-serif;
+}
+
+#page_title {
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	text-shadow: 1px, 1px, 1px darkgrey;
+	color: grey;
+	background-color: snow;
+	font-size: 1.5em;
+	letter-spacing: 1em;
+}
+
+.top_nav_item {
+margin: 10px;
+color: midnightblue;
+font-size: 1.2em;
+text-decoration: none;
+
+}
+
+.top_nav_item:hover {
+	margin: 10px;
+	color: white;
+	text-decoration:none;
+}
+
+#top_nav {
+	text-align: right;
+}

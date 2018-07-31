@@ -1,0 +1,9 @@
+body {
+	background-color: lightyellow; 
+}
+
+.photo {
+	display: inline-block;
+	border: 2px maroon solid;
+	width: 30%;
+}

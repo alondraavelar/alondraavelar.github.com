@@ -1,0 +1,32 @@
+body {
+	background-image: url("lights.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Raleway', sans-serif;
+}
+
+.top_nav_item {
+margin: 10px;
+color: midnightblue;
+font-size: 1.2em;
+text-decoration: none;
+
+}
+
+.top_nav_item:hover {
+	margin: 10px;
+	color: white;
+	text-decoration:none;
+}
+
+#top_nav {
+	text-align: right;
+}
+
+#intro {
+	background: rgba(182, 208, 249, .5);
+    padding: 10px;
+    text-align: center;
+}

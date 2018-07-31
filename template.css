@@ -1,0 +1,49 @@
+body {
+	background: rgb(182, 208, 249);
+	font-family: 'Raleway', sans-serif;
+}
+
+#page_title {
+	text-align: center;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	text-shadow: 1px, 1px, 1px darkgrey;
+	color: grey;
+	background-color: snow;
+	font-size: 1.5em;
+	letter-spacing: 1em;
+	width: 85%;
+	margin: auto;
+}
+
+.top_nav_item {
+margin: 10px;
+color: midnightblue;
+font-size: 1.2em;
+text-decoration: none;
+
+}
+
+.top_nav_item:hover {
+	margin: 10px;
+	color: white;
+	text-decoration:none;
+}
+
+#description {
+	background-color: snow;
+	padding: 30px;
+	width:80%;
+	height: 500px;
+	margin: auto;
+}
+
+#top_nav {
+	text-align: right;
+}
+
+img {
+	border: darkgrey 3px solid midnightblue;
+	box-shadow: 5px 5px 5px darkgrey;
+	float:left;
+	margin-right:10px;
